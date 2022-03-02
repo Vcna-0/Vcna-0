@@ -6,7 +6,7 @@
 
 ### Challenges 📝
 
-- [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Vcna-0)   
+- [Frontend Mentor Challenges](https://github.com/Vcna-0/FrontendMentor-challenges)   
 
 ---
 
