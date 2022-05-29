@@ -1,10 +1,10 @@
-### Hi there i'm Vcna 👋
+### Hi there i'm Noëmie 👋
 
 📚 I am currently learning front-end development 
 
 ---
 
-### Challenges 📝
+### My projects and Challenges 📝
 
 - [Frontend Mentor Challenges](https://github.com/Vcna-0/FrontendMentor-challenges)   
 
