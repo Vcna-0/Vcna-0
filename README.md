@@ -2,7 +2,7 @@
 
 📚 I am currently learning front-end development 
 
----
+
 ### Languages 💻
 
 
