@@ -1,6 +1,6 @@
 ### Hi there i'm Noëmie 👋
 
-📚 I am currently learning front-end development 
+📚 I am web developer
 
 
 ### Frontend 💻
